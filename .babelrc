@@ -1,0 +1,5 @@
+{
+    "plugins": [
+        ["./babelPlugins/optimizeImport.js", {"modules": ["lodash", "react"]}]
+    ]
+}
